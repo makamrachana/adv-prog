@@ -1,0 +1,80 @@
+  1  git-- version
+    2  tw
+    3  twd
+    4  pwd
+    5  ls
+    6  cd desktop/
+    7  cd raptor
+    8  cd
+    9  cd..
+   10  cd ..
+   11  cd desktop/
+   12  mkdir AIandML
+   13  mkdir data science
+   14  cd data science
+   15  touch data.txt
+   16  ls
+   17  touch Data.txt
+   18  ls
+   19  cat data.txt
+   20  echo "AIandML">data.txt
+   21  cat data.txt
+   22  nano Data.txt
+   23  pwd
+   24  ls
+   25  ls-a
+   26  cd
+   27  cd desktop
+   28  cd ..
+   29  cd
+   30  cd desktop/
+   31  mkdir ds
+   32  ls
+   33  ls
+   34  cd ds
+   35  ls
+   36  touch data.txt
+   37  ls
+   38  cat data.txt
+   39  echo "ds">data.txt
+   40  cat data.txt
+   41  nano data.txt
+   42  cat data.txt
+   43  nano test.txt
+   44  rm test.txt
+   45  ls
+   46  git init
+   47  git status
+   48  git add Data.txt
+   49  git add data.txt
+   50  git status
+   51  git commit -m"first commit"
+   52  git config --global user.email 'makamrachana76@gmail.com'
+   53  git config user.email
+   54  git config user.name
+   55  git config --global user.name'rachana'
+   56  git config user.name
+   57  gitgit config user.name 'rachana'
+   58  git commit -m first commit
+   59  git status
+   60  git add data.txt
+   61  git commit -m
+   62  git commit -m"second commit"
+   63  git log
+   64  mkdir adv-prog
+   65  ls
+   66* git remote-help
+   67  git remote add adv-prog https://github.com/makamrachana/adv-prog
+   68  git remote show
+   69  git remote -v
+   70  git pull adv-prog master
+   71  git push -u adv-prog
+   72  git push --set upstream adv-prog master
+   73  git push -f --set-upstream adv-prog master
+   74  git push --set-upstream adv-prog master
+   75  git push -f --set-upstream adv-prog master
+   76  git push -f --set-upstream adv-prog master
+   77  git push --set-ipstream adv-prog master
+   78  history
+   79  history
+
